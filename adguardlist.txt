@@ -1,14 +1,8 @@
 !
-! Title: AdAway Default Blocklist
+! Title: AdAway Blocklist by dfgas
 ! Description: Open-source ad blocker for Android using the hosts file
-! Homepage: https://github.com/AdAway/adaway.github.io/
-! Last modified: 2023-11-21T17:45:17.050Z
-!
-! Compiled by @adguard/hostlist-compiler v1.0.23
-!
-!
-! Source name: AdAway Default Blocklist
-! Source: https://adaway.org/hosts.txt
+! Source name: custom list by dfgas
+! Source: https://github.com/dfgas/adguardlist/blob/main/adguardlist.txt
 !
 
 # [reddit.com]
@@ -36,3 +30,20 @@
 
 # [google.com]
 127.0.0.1 analytics.google.com
+
+# [bugsnag.com]
+127.0.0.1 notify.bugsnag.com
+127.0.0.1 sessions.bugsnag.com
+127.0.0.1 api.bugsnag.com
+
+# [getsentry.com]
+127.0.0.1 app.getsentry.com
+
+# [yahoo.com]
+127.0.0.1 udcm.yahoo.com
+127.0.0.1 log.fc.yahoo.com
+
+# [yandex.ru]
+127.0.0.1 appmetrica.yandex.ru
+127.0.0.1 metrika.yandex.ru
+127.0.0.1 advertising.yandex.ru
