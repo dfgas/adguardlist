@@ -31,5 +31,8 @@
 # [amazon.com]
 127.0.0.1 advertising-api-eu.amazon.com
 
-# [amazon.com]
+# [googlesyndication.com]
 127.0.0.1 afs.googlesyndication.com
+
+# [google.com]
+127.0.0.1 analytics.google.com
