@@ -24,3 +24,12 @@
 127.0.0.1 log.pinterest.com
 127.0.0.1 analytics.pinterest.com
 127.0.0.1 widgets.pinterest.com
+
+# [amazonaws.com]
+127.0.0.1 advice-ads.s3.amazonaws.com
+
+# [amazon.com]
+127.0.0.1 advertising-api-eu.amazon.com
+
+# [amazon.com]
+127.0.0.1 afs.googlesyndication.com
