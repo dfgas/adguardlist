@@ -42,8 +42,11 @@
 # [yahoo.com]
 127.0.0.1 udcm.yahoo.com
 127.0.0.1 log.fc.yahoo.com
+127.0.0.1 udc.yahoo.com
 
 # [yandex.ru]
 127.0.0.1 appmetrica.yandex.ru
 127.0.0.1 metrika.yandex.ru
 127.0.0.1 advertising.yandex.ru
+127.0.0.1 appmetrica.yandex.ru
+127.0.0.1 metrika.yandex.ru
