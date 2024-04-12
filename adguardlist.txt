@@ -1,0 +1,8 @@
+127.0.0.1 events.reddit.com
+127.0.0.1 ads-api.tiktok.com
+127.0.0.1 ads-sg.tiktok.com
+127.0.0.1 business-api.tiktok.com
+127.0.0.1 ads.tiktok.com
+127.0.0.1 log.pinterest.com
+127.0.0.1 analytics.pinterest.com
+127.0.0.1 widgets.pinterest.com
